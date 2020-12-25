@@ -1,5 +1,5 @@
-import java.util.*;
-public class Employe {
+
+public abstract class Employe {
 
 	private String nom;
 	private String prenom;
